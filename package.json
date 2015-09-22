@@ -1,0 +1,22 @@
+{
+  "name": "v-carousel",
+  "version": "1.0.0",
+  "description": "Arbetsprov för Aftonbladet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jennie1001/v-carousel.git"
+  },
+  "author": "Jennie Andersson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jennie1001/v-carousel/issues"
+  },
+  "homepage": "https://github.com/jennie1001/v-carousel",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
