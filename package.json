@@ -18,6 +18,8 @@
   "homepage": "https://github.com/jennie1001/v-carousel",
   "devDependencies": {
     "browserify": "^11.2.0",
-    "gulp": "^3.9.0"
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-uglify": "^1.4.1"
   }
 }
